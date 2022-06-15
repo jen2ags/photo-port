@@ -11,10 +11,7 @@ function Nav(props) {
   } = props;
 
 
-  const handleClick = (item) => {
-    console.log(item);
-    return item;
-  };
+
 
   return (
     <header className="flex-row px-1">
