@@ -47,6 +47,7 @@ exports[`Contact component renders renders 1`] = `
         />
       </div>
       <button
+        data-testid="button"
         type="submit"
       >
         Submit
